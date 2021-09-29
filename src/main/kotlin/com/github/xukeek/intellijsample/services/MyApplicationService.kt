@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xukeek.intellijsample.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xukeek.intellijsample.MyBundle
 
 class MyApplicationService {
 
